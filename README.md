@@ -42,4 +42,4 @@ No installation needed! Just:
 
 ## License 📜
 
-MIT License - Free to use and modify
+Apache License - Free to use and modify
