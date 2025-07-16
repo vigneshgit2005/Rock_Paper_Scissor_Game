@@ -2,7 +2,7 @@
 
 A modern, interactive 3D-style Rock Paper Scissors game with smooth animations and elegant UI effects.
 
-![Game Screenshot](https://i.imgur.com/placeholder.png) *(add your screenshot link here)*
+![Game Screenshot](WhatsApp Image 2025-07-16 at 18.15.56_72287873.jpg) *(add your screenshot link here)*
 
 ## Features ✨
 
