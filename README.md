@@ -40,6 +40,4 @@ No installation needed! Just:
 2. Open in any modern browser
 
 
-## License 📜
 
-Apache License - Free to use and modify
